@@ -1,0 +1,45 @@
+#--------------------------------------------------------------------------------------------------------------
+I have used this commands for genral operation like- creating requirements file, fastAPI load, etc.
+
+python -m venv <virtual env>      # used for creating virtual env
+<virtual env>\Scripts\activate    # for activate venv
+pip freeze > requirements. txt    # used for all requirements
+uvicorn main:app                  # for running the fast api
+uvicorn main:app --reload         # for countine running whenver you save file
+pip install -r requirements       # for install all requirements
+
+#---------------------------------------------------------------------------------------------------------------
+I have refferd below Link & video for my understaning some concept in project 
+
+https://python.langchain.com/docs/integrations/text_embedding/huggingfacehub
+https://python.langchain.com/docs/integrations/vectorstores/chroma
+https://python.langchain.com/docs/integrations/document_loaders
+
+https://www.youtube.com/watch?v=lYzz-zaw86E
+https://www.youtube.com/watch?v=U0sJ3uVtylM
+https://www.youtube.com/results?search_query=promt+krish+
+
+#---------------------------------------------------------------------------------------------------------------
+I got some of issue & Blockers. I have been solve using below link 
+
+https://stackoverflow.com/questions/76600384/unable-to-read-text-data-file-using-textloader-from-langchain-document-loaders-l
+https://www.sbert.net/
+
+#---------------------------------------------------------------------------------------------------------------
+this cocept clear in this project 
+
+1) Paid LLM & Free LLM
+2) Fast API 
+3) Prompt creation
+4) chat module / Embedding module / Vectorstore / Document transformers
+5) free datbase- for vectorstores
+6) chatbot creation (RAG App)
+7) chunks & text embedding
+8) memory cancept
+9) chain
+10) google Colab
+11) python Oops & Python Datatype & Annotaion
+12) logger  
+
+#---------------------------------------------------------------------------------------------------------------
+

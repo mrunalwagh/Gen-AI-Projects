@@ -1,0 +1,30 @@
+
+#-----------------------------------------------------Question for txt file---------------------------------------------------------
+
+Where does the Ganges originate from?
+What is the origin of the Yamuna River?
+Where does the Brahmaputra River originate, and what is it known as in its upper reaches?
+What is the origin of the Indus River, and where does it enter India?
+Which provinces of Pakistan does the Indus flow through?
+Through which states does the Godavari flow before emptying into the Bay of Bengal?
+Where does the Krishna River originate, and through which states does it flow?
+What is the source of the Narmada River?
+about Tapti?
+
+#-------------------------------------------------------Question for pdf file-------------------------------------------------------
+Where is the Taj Mahal located, and why is it renowned?
+Who built the Red Fort, and what is its significance?
+What is unique about the Qutub Minar, and when was it built?
+Describe Hampi and its historical significance.
+What are the Ajanta and Ellora Caves famous for, and where are they located?
+
+#--------------------------------------------------------Question for word file--------------------------------------------------------
+Where are the Khajuraho Temples located, and what makes them famous?
+Who built Fatehpur Sikri, and what was its purpose?
+Describe Mehrangarh Fort and its significance.
+What is the Agra Fort also known as, and where is it located?
+Describe Mahabalipuram and its historical importance.
+
+#--------------------------------------------------------Question for md file---------------------------------------------------------
+
+
